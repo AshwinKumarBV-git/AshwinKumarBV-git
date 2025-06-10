@@ -1,89 +1,107 @@
-<!-- Typing effect using SVG -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=👋+Hi+there%2C+I'm+Ashwin+Kumar+B+V" alt="Typing SVG" />
-</h1>
-
-### 💫 About Me  
-🚀 I’m currently working in the exciting fields of **Artificial Intelligence** and **Machine Learning**.  
-📌 Motto: *"Stay Hungry, Stay Foolish."*
+<h1 align="center">Hi 👋, I'm Ashwin Kumar B V</h1>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Explorer | "Stay Hungry, Stay Foolish"</h3>
 
 ---
 
-## 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ashwin._.6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ashwinkumarbv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinkumarbv00@gmail.com)
+### 🧠 About Me
+- 🔭 I’m currently working on **AI/ML projects** & **sensor-based anomaly detection systems**
+- 🌱 Learning advanced concepts in **Deep Learning**, **Flutter**, and **FastAPI**
+- 💬 Ask me about `AI`, `ML`, `Python`, `FastAPI`, `Flutter`, or anything tech!
+- ✍️ I believe in lifelong learning and building meaningful solutions
+- 🎯 Motto: **"Stay hungry, stay foolish."**
 
 ---
 
-## 💻 Tech Stack
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/ashwin._.6" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ashwinkumarbv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ashwinkumarbv00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ My Tech Toolbox
 
 <details>
-<summary>✨ Click to Expand</summary>
+<summary><b>🚀 Languages & Frameworks</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+</details>
 
-### 🎯 Languages  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+<details>
+<summary><b>🧠 AI/ML & Data Tools</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+</details>
 
-### 📱 Web & App Dev  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-### ☁️ Databases & Cloud  
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-
-### 🤖 ML & Data Science  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)
-
+<details>
+<summary><b>📦 DevOps & Databases</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 </details>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwinKumarBV-git&theme=tokyonight&hide_border=true&show_icons=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinKumarBV-git&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinKumarBV-git&theme=tokyonight&hide_border=true" height="160px"/>
-</div>
-
----
-
-### ✍️ Dev Quote of the Day
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwinKumarBV-git&theme=aura&hide_border=true&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinKumarBV-git&layout=compact&theme=aura&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AshwinKumarBV-git&theme=aura&hide_border=true"/>
 </p>
 
 ---
 
-### 🚀 Top Contributed Repositories
+### ✍️ Developer Quote
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AshwinKumarBV-git&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Repo stats" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
-### 🌊 Just for Fun: Animated Wave Footer
+### 🔝 Top Contributed Repos
 
-<img src="https://github.com/AshwinKumarBV-git/AshwinKumarBV-git/assets/yourusername/wave.svg" alt="wave footer" />
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AshwinKumarBV-git&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
 
 ---
 
-### 🧭 Profile Visitors
-
+### 🧭 Visitor Counter  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AshwinKumarBV-git&label=Profile%20Views&icon=0&color=0" alt="Profile Visitors" />
+  <img src="https://visitcount.itsvg.in/api?id=AshwinKumarBV-git&label=Profile%20Views&icon=0&color=12"/>
 </p>
 
-<!-- Designed with ❤️ using GPRM and SVG effects -->
+---
+
+<!-- Designed with ❤️ by Ashwin using GPRM and Shields.io -->

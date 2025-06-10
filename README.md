@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently working on **AI/ML projects** & **sensor-based anomaly detection systems**
+- 🔭 I’m currently working on **AI/ML projects** 
 - 🌱 Learning advanced concepts in **Deep Learning**, **Flutter**, and **FastAPI**
 - 💬 Ask me about `AI`, `ML`, `Python`, `FastAPI`, `Flutter`, or anything tech!
 - ✍️ I believe in lifelong learning and building meaningful solutions
@@ -97,11 +97,5 @@
 
 ---
 
-### 🧭 Visitor Counter  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AshwinKumarBV-git&label=Profile%20Views&icon=0&color=12"/>
-</p>
-
----
 
 <!-- Designed with ❤️ by Ashwin using GPRM and Shields.io -->

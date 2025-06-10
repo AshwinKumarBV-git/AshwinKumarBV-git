@@ -1,84 +1,107 @@
-# 👋 Hi there, I'm Ashwin Kumar B V
-
-### 💫 About Me
-🚀 I’m currently working in the exciting fields of **Artificial Intelligence** and **Machine Learning**.  
-📌 Motto: *"Stay Hungry, Stay Foolish."*
+<h1 align="center">Hi 👋, I'm Ashwin Kumar B V</h1>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Explorer | "Stay Hungry, Stay Foolish"</h3>
 
 ---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ashwin._.6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ashwinkumarbv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinkumarbv00@gmail.com)
+### 🧠 About Me
+- 🔭 I’m currently working on **AI/ML projects** & **sensor-based anomaly detection systems**
+- 🌱 Learning advanced concepts in **Deep Learning**, **Flutter**, and **FastAPI**
+- 💬 Ask me about `AI`, `ML`, `Python`, `FastAPI`, `Flutter`, or anything tech!
+- ✍️ I believe in lifelong learning and building meaningful solutions
+- 🎯 Motto: **"Stay hungry, stay foolish."**
 
 ---
 
-## 💻 Tech Stack
+### 🌐 Connect With Me
 
-### Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### Web & App Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-### Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=flat-square&logo=render&logoColor=white)
-
-### ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=flat-square&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-298729.svg?style=flat-square&logo=gunicorn&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=gradle&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?style=flat-square&logo=nvidia&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
+<p align="left">
+  <a href="https://instagram.com/ashwin._.6" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ashwinkumarbv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ashwinkumarbv00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ My Tech Toolbox
 
-![](https://github-readme-stats.vercel.app/api?username=AshwinKumarBV-git&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
+<details>
+<summary><b>🚀 Languages & Frameworks</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+</details>
 
-![](https://nirzak-streak-stats.vercel.app/?user=AshwinKumarBV-git&theme=aura&hide_border=true)
+<details>
+<summary><b>🧠 AI/ML & Data Tools</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+</details>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinKumarBV-git&layout=compact&theme=aura&hide_border=true)
+<details>
+<summary><b>📦 DevOps & Databases</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+</details>
 
 ---
 
-### ✍️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwinKumarBV-git&theme=aura&hide_border=true&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinKumarBV-git&layout=compact&theme=aura&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AshwinKumarBV-git&theme=aura&hide_border=true"/>
+</p>
 
 ---
 
-### 🚀 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=AshwinKumarBV-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
-### 🧭 Profile Visitors  
-[![](https://visitcount.itsvg.in/api?id=AshwinKumarBV-git&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔝 Top Contributed Repos
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AshwinKumarBV-git&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+### 🧭 Visitor Counter  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AshwinKumarBV-git&label=Profile%20Views&icon=0&color=12"/>
+</p>
+
+---
+
+<!-- Designed with ❤️ by Ashwin using GPRM and Shields.io -->

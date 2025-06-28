@@ -7,15 +7,13 @@
 - 🔭 I’m currently working on **AI/ML projects** 
 - 🌱 Learning advanced concepts in **Deep Learning**, **Flutter**, and **FastAPI**
 - 💬 Ask me about `AI`, `ML`, `Python`, `FastAPI`, `Flutter`, or anything tech!
-- ✍️ I believe in lifelong learning and building meaningful solutions
-- 🎯 Motto: **"Stay hungry, stay foolish."**
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/ashwin._.6" target="_blank">
+  <a href="https://instagram.com/ashwin_._6" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ashwinkumarbv" target="_blank">
@@ -68,18 +66,6 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 </details>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwinKumarBV-git&theme=aura&hide_border=true&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinKumarBV-git&layout=compact&theme=aura&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=AshwinKumarBV-git&theme=aura&hide_border=true"/>
-</p>
-
----
 
 ### ✍️ Developer Quote
 

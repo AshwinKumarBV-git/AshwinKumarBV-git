@@ -6,7 +6,9 @@
 ### 🧠 About Me
 - 🔭 I’m currently working on **AI/ML projects** 
 - 🌱 Learning advanced concepts in **Deep Learning**, **Flutter**, and **FastAPI**
-- 💬 Ask me about `AI`, `ML`, `Python`, `FastAPI`, `Flutter`, or anything tech!
+- 💬 Ask me about `AI`, `ML`, `Python`, `FastAPI`, `Flutter`, `Cloud Security`, `Networking` or anything tech!
+- I watch a lot the Dodo videos.
+- Love Anime and Playing chess
 
 ---
 

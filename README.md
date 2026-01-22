@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ashwin Kumar B V</h1>
+<h1 align="center">Hiiii , I'm Ashwin Kumar B V</h1>
 <h3 align="center">AI/ML Enthusiast | Full-Stack Explorer | "Stay Hungry, Stay Foolish"</h3>
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently working on **AI/ML projects** 
-- 🌱 Learning advanced concepts in **Deep Learning**, **Flutter**, and **FastAPI**
-- 💬 Ask me about `AI`, `ML`, `Python`, `FastAPI`, `Flutter`, `Cloud Security`, `Networking` or anything tech!
+### About Me
+- I’m currently working on **AI/ML projects** 
+- Learning advanced concepts in **Deep Learning**, **Flutter**, and **FastAPI**
+- Ask me about `AI`, `ML`, `Python`, `FastAPI`, `Flutter`, `Cloud Security`, `Networking` or anything tech!
 - I watch a lot the Dodo videos.
 - Love Anime and Playing chess
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/ashwin_._6" target="_blank">

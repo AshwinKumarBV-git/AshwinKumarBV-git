@@ -80,11 +80,7 @@
 
 ---
 
-### Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AshwinKumarBV-git&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+stay happy and be kind
 
 ---
 

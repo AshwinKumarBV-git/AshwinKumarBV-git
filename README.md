@@ -34,7 +34,7 @@
 ### 🛠️ My Tech Toolbox
 
 <details>
-<summary><b>🚀 Languages & Frameworks</b></summary>
+<summary><b>Languages & Frameworks</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-<summary><b>🧠 AI/ML & Data Tools</b></summary>
+<summary><b>AI/ML & Data Tools</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>📦 DevOps & Databases</b></summary>
+<summary><b>DevOps & Databases</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -72,7 +72,7 @@
 </p>
 </details>
 
-### ✍️ Developer Quote
+### Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -80,7 +80,7 @@
 
 ---
 
-### 🔝 Top Contributed Repos
+### Top Contributed Repos
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AshwinKumarBV-git&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
@@ -88,5 +88,3 @@
 
 ---
 
-
-<!-- Designed with ❤️ by Ashwin using GPRM and Shields.io -->

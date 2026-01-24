@@ -1,5 +1,5 @@
 <h1 align="center">Hiiii , I'm Ashwin Kumar B V</h1>
-<h3 align="center">AI/ML Enthusiast | Full-Stack Explorer | "Stay Hungry, Stay Foolish"</h3>
+<h3 align="center">AI/ML Enthusiast | Full-Stack Explorer | "Stay Hungry, Stay Foolish" | In Pursuit of Greatnesssss!</h3>
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ My Tech Toolbox
+###  My Tech Toolbox
 
 <details>
 <summary><b>Languages & Frameworks</b></summary>
